@@ -14,6 +14,7 @@ git clone git@github.com:Shandur/emta-import.git
 
 ## Notes
 
+- Please, check the data you're going to import carefully. Before signing off the declaration, make sure that the "section 8.8" contains correct data!
 - Right now, the script supports **only** US-based companies - support for other countries will come later.
 - The script will match dividends and withholding taxes based on company symbol and date. If withholding tax doesn't match with any dividend records, the will be skipped.
 
