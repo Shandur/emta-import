@@ -1,0 +1,8 @@
+Dividends,Header,Currency,Date,Description,Amount
+Dividends,Data,USD,2000-01-05,VICI(US9256521090) Cash Dividend USD 0.39 per Share (Ordinary Dividend),13.99
+Dividends,Data,Total,,,13.99
+Dividends,Data,Total in EUR,,,13.59
+Withholding Tax,Header,Currency,Date,Description,Amount,Code
+Withholding Tax,Data,USD,2000-01-05,VICI(US9256521090) Cash Dividend USD 0.39 per Share - US Tax,-2.1,
+Withholding Tax,Data,Total,,,-2.1,
+Withholding Tax,Data,Total in EUR,,,-1.95,
